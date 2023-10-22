@@ -11,7 +11,7 @@ Referências:
 * [Repositório de Exercícios sobre Grafos](https://cpbook.net/methodstosolve?oj=uva&topic=ch4&quality=all)
 * [Planilha de Desafios da Disciplina](https://docs.google.com/spreadsheets/d/1_Ze0ZTENB7cVzwLEbviDZWMoeKls2C1P/edit#gid=596636628)
 
-## 1° EP - Algoritmos Gulosos:
+## 2° EP - Algoritmos Gulosos:
 Desafios:
 * "Minimal coverage" (10020; 3.4a, Greedy (Classical))
 * "Constructing BST" (10821; 3.4f, Non Classical, Harder)
