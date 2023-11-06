@@ -1,4 +1,5 @@
 # EP's Desafios de Programação II
+[Repositório dos Exercícios](https://cpbook.net/methodstosolve?oj=uva&topic=ch4&quality=all)
 
 ## 1° EP - Grafos:
 Desafios:
@@ -8,7 +9,6 @@ Desafios:
 
 Referências:
 * [Enunciado](https://docs.google.com/document/d/1PYuRHHg9lbdD778M17vAe2UfpFMBQtP7/edit)
-* [Repositório de Exercícios sobre Grafos](https://cpbook.net/methodstosolve?oj=uva&topic=ch4&quality=all)
 * [Planilha de Desafios da Disciplina](https://docs.google.com/spreadsheets/d/1_Ze0ZTENB7cVzwLEbviDZWMoeKls2C1P/edit#gid=596636628)
 
 ## 2° EP - Algoritmos Gulosos:
@@ -18,5 +18,13 @@ Desafios:
 
 Referências:
 * [Enunciado](https://docs.google.com/document/d/10CMnanjsjvi43zmFZ-yRPMRRh0iMx5_G/edit)
-* [Repositório de Exercícios sobre Grafos](https://cpbook.net/methodstosolve?oj=uva&topic=ch3&quality=all)
 * [Planilha de Desafios da Disciplina](https://docs.google.com/spreadsheets/d/1tUIKhJYkQJg-22koq3arxQhHqD4bpVLQ/edit#gid=596636628)
+
+## 3° EP - Programação Dinâmica:
+Desafios:
+* "Murcia’s Skyline" (11790; 3.5b, LIS)
+* "Sum of Different Primes" (01213; 3.5c, 0-1 KNAPSACK)
+
+Referências:
+* [Enunciado](https://docs.google.com/document/d/1ye4_atqzWH5b6SZpVKdwT7CS44oaBU3P/edit)
+* [Planilha de Desafios da Disciplina](https://docs.google.com/spreadsheets/d/1nKfn7UgHDA_w_nL56NZsmuzYYLX-1KB2/edit#gid=596636628)
