@@ -3,14 +3,15 @@ import java.util.Scanner;
 class Sol {
     private static int count = 0;
     private static int solve(int n, int k, int sum, int start) {
-        if (k >= 0)
-            for (int i = start; i <= n - start; i++) {
+        if (k > 0)
+            for (int i = start; i <= n-sum; i++) {
                 if (isPrime(i)) {
-                    sum += i;
-                    if (sum == n) {
+                    System.out.println("n="+n+" k="+k+" sum="+sum+" i="+i);
+                    if (sum+i == n && k == 1) {
                         count++;
+                        System.out.println("contou!");
                     }
-                    solve(n - i, k - 1, sum, i + 1);
+                    solve(n, k - 1, sum+i, i + 1);
                 }
             }
         return count;
