@@ -28,3 +28,13 @@ Desafios:
 Referências:
 * [Enunciado](https://docs.google.com/document/d/1ye4_atqzWH5b6SZpVKdwT7CS44oaBU3P/edit)
 * [Planilha de Desafios da Disciplina](https://docs.google.com/spreadsheets/d/1nKfn7UgHDA_w_nL56NZsmuzYYLX-1KB2/edit#gid=596636628)
+
+
+## 4° EP - Matemática:
+Desafios:
+* "Black and white painting" (11489 - 5.7a, Game Theory (Basic))
+* "Sum of Different Primes" (11231 - 5.2b, Finding Formula, Harder)
+
+Referências:
+* [Enunciado](https://docs.google.com/document/d/148n43DO8pCSwKaKvwwb-FZHuqqggwmFs/edit)
+* [Planilha de Desafios da Disciplina](https://docs.google.com/spreadsheets/d/1jmhLJ6ijpuOVWVgZd7IcGQnsMPrTTIbu/edit#gid=596636628)
