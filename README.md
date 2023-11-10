@@ -33,7 +33,7 @@ Referências:
 ## 4° EP - Matemática:
 Desafios:
 * "Black and white painting" (11489 - 5.7a, Game Theory (Basic))
-* "Sum of Different Primes" (11231 - 5.2b, Finding Formula, Harder)
+* "Integer Game" (11231 - 5.2b, Finding Formula, Harder)
 
 Referências:
 * [Enunciado](https://docs.google.com/document/d/148n43DO8pCSwKaKvwwb-FZHuqqggwmFs/edit)
