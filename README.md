@@ -9,7 +9,7 @@ Desafios:
 
 Referências:
 * [Enunciado](https://docs.google.com/document/d/1PYuRHHg9lbdD778M17vAe2UfpFMBQtP7/edit)
-* [Planilha de Desafios da Disciplina](https://docs.google.com/spreadsheets/d/1_Ze0ZTENB7cVzwLEbviDZWMoeKls2C1P/edit#gid=596636628)
+* [Planilha de Desafios](https://docs.google.com/spreadsheets/d/1_Ze0ZTENB7cVzwLEbviDZWMoeKls2C1P/edit#gid=596636628)
 
 ## 2° EP - Algoritmos Gulosos:
 Desafios:
@@ -18,7 +18,7 @@ Desafios:
 
 Referências:
 * [Enunciado](https://docs.google.com/document/d/10CMnanjsjvi43zmFZ-yRPMRRh0iMx5_G/edit)
-* [Planilha de Desafios da Disciplina](https://docs.google.com/spreadsheets/d/1tUIKhJYkQJg-22koq3arxQhHqD4bpVLQ/edit#gid=596636628)
+* [Planilha de Desafios](https://docs.google.com/spreadsheets/d/1tUIKhJYkQJg-22koq3arxQhHqD4bpVLQ/edit#gid=596636628)
 
 ## 3° EP - Programação Dinâmica:
 Desafios:
@@ -27,7 +27,7 @@ Desafios:
 
 Referências:
 * [Enunciado](https://docs.google.com/document/d/1ye4_atqzWH5b6SZpVKdwT7CS44oaBU3P/edit)
-* [Planilha de Desafios da Disciplina](https://docs.google.com/spreadsheets/d/1nKfn7UgHDA_w_nL56NZsmuzYYLX-1KB2/edit#gid=596636628)
+* [Planilha de Desafios](https://docs.google.com/spreadsheets/d/1nKfn7UgHDA_w_nL56NZsmuzYYLX-1KB2/edit#gid=596636628)
 
 
 ## 4° EP - Matemática:
@@ -37,4 +37,13 @@ Desafios:
 
 Referências:
 * [Enunciado](https://docs.google.com/document/d/148n43DO8pCSwKaKvwwb-FZHuqqggwmFs/edit)
-* [Planilha de Desafios da Disciplina](https://docs.google.com/spreadsheets/d/1jmhLJ6ijpuOVWVgZd7IcGQnsMPrTTIbu/edit#gid=596636628)
+* [Planilha de Desafios](https://docs.google.com/spreadsheets/d/1jmhLJ6ijpuOVWVgZd7IcGQnsMPrTTIbu/edit#gid=596636628)
+
+## 5° EP - Estruturas de Dados e Bibliotecas:
+Desafios:
+* "Pole Position" (12150; 2.2a, 1D Array, Medium)
+* "Falling Ants" (12709; 2.2e, Sorting, Easier)
+
+Referências:
+* [Enunciado](https://docs.google.com/document/d/1u_ujo4qPp2JaGkTc_oGeUnif3J54ezCy/edit)
+* [Planilha de Desafios](https://docs.google.com/spreadsheets/d/1ImSvYkXEIUOrlBEkn4ngpJ4qy4rtcaGS/edit#gid=596636628)
