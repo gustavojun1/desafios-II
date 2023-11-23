@@ -16,6 +16,7 @@ signed main() {
 
         n-=7; m-=7;
         cout << n * m / 2 + ((n & 1 && m & 1) ? c : 0) << '\n'; 
+        // O(n)
     }
     return 0;
 }
