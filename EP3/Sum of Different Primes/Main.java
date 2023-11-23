@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Sol {
+class Main {
     private static int count = 0;
     private static int solve(int n, int k, int sum, int start) {
         if (k > 0)
